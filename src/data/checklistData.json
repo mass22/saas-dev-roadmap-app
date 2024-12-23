@@ -1,0 +1,120 @@
+[
+    {
+        "category": "Idée et Validation",
+        "steps": [
+            {
+                "id": 1,
+                "question": "Quel problème votre SaaS résout-il ?",
+                "completed": false,
+                "answer": "",
+                "critical": true
+            },
+            {
+                "id": 2,
+                "question": "Qui sont vos utilisateurs cibles ?",
+                "completed": false,
+                "answer": "",
+                "critical": true
+            },
+            {
+                "id": 3,
+                "question": "Comment validez-vous votre idée (sondage, interviews, etc.) ?",
+                "completed": false,
+                "answer": "",
+                "critical": true
+            }
+        ]
+    },
+    {
+        "category": "Planification et Architecture",
+        "steps": [
+            {
+                "id": 4,
+                "question": "Quelles technologies allez-vous utiliser (frontend, backend) ?",
+                "completed": false,
+                "answer": "",
+                "critical": false
+            },
+            {
+                "id": 5,
+                "question": "Quel modèle de revenus avez-vous choisi (freemium, abonnement, etc.) ?",
+                "completed": false,
+                "answer": "",
+                "critical": true
+            },
+            {
+                "id": 6,
+                "question": "Quelle est votre roadmap simple pour le projet ?",
+                "completed": false,
+                "answer": "",
+                "critical": false
+            }
+        ]
+    },
+    {
+        "category": "Développement Technique",
+        "steps": [
+            {
+                "id": 7,
+                "question": "Avez-vous configuré votre environnement de développement ?",
+                "completed": false,
+                "answer": "",
+                "critical": false
+            },
+            {
+                "id": 8,
+                "question": "Comment implémentez-vous la base de données et l’authentification ?",
+                "completed": false,
+                "answer": "",
+                "critical": true
+            },
+            {
+                "id": 9,
+                "question": "Quelles sont les fonctionnalités principales à développer ?",
+                "completed": false,
+                "answer": "",
+                "critical": true
+            },
+            {
+                "id": 10,
+                "question": "Quels tests clés devez-vous effectuer ?",
+                "completed": false,
+                "answer": "",
+                "critical": false
+            }
+        ]
+    },
+    {
+        "category": "Lancement",
+        "steps": [
+            {
+                "id": 11,
+                "question": "Comment concevez-vous votre landing page ?",
+                "completed": false,
+                "answer": "",
+                "critical": false
+            },
+            {
+                "id": 12,
+                "question": "Comment allez-vous intégrer un système de paiement (ex. Stripe) ?",
+                "completed": false,
+                "answer": "",
+                "critical": true
+            },
+            {
+                "id": 13,
+                "question": "Quand prévoyez-vous de lancer une version bêta ?",
+                "completed": false,
+                "answer": "",
+                "critical": false
+            },
+            {
+                "id": 14,
+                "question": "Quels feedbacks attendez-vous des utilisateurs bêta ?",
+                "completed": false,
+                "answer": "",
+                "critical": false
+            }
+        ]
+    }
+]
